@@ -1,0 +1,21 @@
+.btn {
+  color: whitesmoke;
+  background-color: gray;
+  border: 5px black dashed;
+  border-radius: 12px;
+  height: 4rem;
+  width: 10rem;
+  cursor: pointer;
+}
+
+.title {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  width: max-content;
+  height: 5rem;
+  border: 5px tomato dashed;
+  border-radius: 12px;
+  background-color: bisque;
+  cursor: pointer;
+}
